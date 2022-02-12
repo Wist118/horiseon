@@ -8,7 +8,7 @@ A website that offers website services.
 * CSS
 
 ## Website
-
+https://wist118.github.io/horiseon-landing-page/
 
 ## Contribution
 Made with ❤️ by Will Stock
